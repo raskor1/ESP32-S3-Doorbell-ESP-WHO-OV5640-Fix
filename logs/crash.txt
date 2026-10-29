@@ -1,0 +1,263 @@
+Configuring flash size...
+
+Writing 'bootloader/bootloader.bin' at 0x00000000...
+SHA digest in image updated.
+Flash will be erased from 0x00000000 to 0x00005fff...
+Compressed 22496 bytes to 14410...
+Writing at 0x000057e0 ============================== 100.0% 14.07kB/14.07kB [0s]
+Wrote 22496 bytes (14410 compressed) at 0x00000000 in 0.5 seconds (363.3 kbit/s).
+Verifying written data...
+Hash of data verified.
+
+Writing 'partition_table/partition-table.bin' at 0x00009000...
+Flash will be erased from 0x00009000 to 0x00009fff...
+Compressed 3072 bytes to 120...
+Writing at 0x00009c00 ============================== 100.0% 120B/120B [0s]
+Wrote 3072 bytes (120 compressed) at 0x00009000 in 0.0 seconds (789.5 kbit/s).
+Verifying written data...
+Hash of data verified.
+
+Writing 'human_face_recognition.bin' at 0x00010000...
+Flash will be erased from 0x00010000 to 0x00390fff...
+Compressed 3670416 bytes to 2146381...
+Writing at 0x0001f06b                                  0.8% 16.00kB/2.05MB [0s]
+Writing at 0x0002c63e                                  1.5% 32.00kB/2.05MB [0s]
+Writing at 0x00033e8d >                                2.3% 48.00kB/2.05MB [1s]
+Writing at 0x00039480 >                                3.1% 64.00kB/2.05MB [1s]
+Writing at 0x0003e937 =                                3.8% 80.00kB/2.05MB [1s]
+Writing at 0x00043d24 =                                4.6% 96.00kB/2.05MB [2s]
+Writing at 0x00048f69 =>                               5.3% 112.00kB/2.05MB [2s]
+Writing at 0x0004daf0 =>                               6.1% 128.00kB/2.05MB [3s]
+Writing at 0x00052a84 ==                               6.9% 144.00kB/2.05MB [3s]
+Writing at 0x00057fbf ==                               7.6% 160.00kB/2.05MB [3s]
+Writing at 0x0005ce37 ==>                              8.4% 176.00kB/2.05MB [4s]
+Writing at 0x00061b64 ==>                              9.2% 192.00kB/2.05MB [4s]
+Writing at 0x00066819 ==>                              9.9% 208.00kB/2.05MB [4s]
+Writing at 0x0006ba4b ===                             10.7% 224.00kB/2.05MB [5s]
+Writing at 0x000716a3 ===                             11.4% 240.00kB/2.05MB [5s]
+Writing at 0x00076285 ===>                            12.2% 256.00kB/2.05MB [6s]
+Writing at 0x0007b284 ===>                            13.0% 272.00kB/2.05MB [6s]
+Writing at 0x00080347 ====                            13.7% 288.00kB/2.05MB [6s]
+Writing at 0x000851b3 ====                            14.5% 304.00kB/2.05MB [7s]
+Writing at 0x00089d47 ====>                           15.3% 320.00kB/2.05MB [7s]
+Writing at 0x0008e8cc ====>                           16.0% 336.00kB/2.05MB [7s]
+Writing at 0x00093215 =====                           16.8% 352.00kB/2.05MB [8s]
+Writing at 0x000986ac =====                           17.6% 368.00kB/2.05MB [8s]
+Writing at 0x0009d5fb =====                           18.3% 384.00kB/2.05MB [9s]
+Writing at 0x000a24cb =====>                          19.1% 400.00kB/2.05MB [9s]
+Writing at 0x000a7367 =====>                          19.8% 416.00kB/2.05MB [9s]
+Writing at 0x000ac680 ======                          20.6% 432.00kB/2.05MB [10s]
+Writing at 0x000b1910 ======                          21.4% 448.00kB/2.05MB [10s]
+Writing at 0x000b6b68 ======>                         22.1% 464.00kB/2.05MB [10s]
+Writing at 0x000bc0f1 ======>                         22.9% 480.00kB/2.05MB [11s]
+Writing at 0x000c0ee9 =======                         23.7% 496.00kB/2.05MB [11s]
+Writing at 0x000c60c6 =======                         24.4% 512.00kB/2.05MB [12s]
+Writing at 0x000cb34c =======>                        25.2% 528.00kB/2.05MB [12s]
+Writing at 0x000d0c68 =======>                        26.0% 544.00kB/2.05MB [12s]
+Writing at 0x000d656b ========                        26.7% 560.00kB/2.05MB [13s]
+Writing at 0x000db958 ========                        27.5% 576.00kB/2.05MB [13s]
+Writing at 0x000e129f ========                        28.2% 592.00kB/2.05MB [13s]
+Writing at 0x000e61e8 ========>                       29.0% 608.00kB/2.05MB [14s]
+Writing at 0x000eb477 ========>                       29.8% 624.00kB/2.05MB [14s]
+Writing at 0x000f04aa =========                       30.5% 640.00kB/2.05MB [15s]
+Writing at 0x000f5927 =========                       31.3% 656.00kB/2.05MB [15s]
+Writing at 0x000faa66 =========>                      32.1% 672.00kB/2.05MB [15s]
+Writing at 0x000ffb7f =========>                      32.8% 688.00kB/2.05MB [16s]
+Writing at 0x00104ca0 ==========                      33.6% 704.00kB/2.05MB [16s]
+Writing at 0x00109ddd ==========                      34.3% 720.00kB/2.05MB [16s]
+Writing at 0x0010ef1d ==========>                     35.1% 736.00kB/2.05MB [17s]
+Writing at 0x00114082 ==========>                     35.9% 752.00kB/2.05MB [17s]
+Writing at 0x001191b0 ==========>                     36.6% 768.00kB/2.05MB [18s]
+Writing at 0x0011e2e3 ===========                     37.4% 784.00kB/2.05MB [18s]
+Writing at 0x0012340b ===========                     38.2% 800.00kB/2.05MB [18s]
+Writing at 0x0012853c ===========>                    38.9% 816.00kB/2.05MB [19s]
+Writing at 0x0012d671 ===========>                    39.7% 832.00kB/2.05MB [19s]
+Writing at 0x00132717 ============                    40.5% 848.00kB/2.05MB [19s]
+Writing at 0x00138182 ============                    41.2% 864.00kB/2.05MB [20s]
+Writing at 0x0013d874 ============>                   42.0% 880.00kB/2.05MB [20s]
+Writing at 0x00142b1c ============>                   42.7% 896.00kB/2.05MB [21s]
+Writing at 0x00147c25 =============                   43.5% 912.00kB/2.05MB [21s]
+Writing at 0x0014c7e3 =============                   44.3% 928.00kB/2.05MB [21s]
+Writing at 0x00151451 =============>                  45.0% 944.00kB/2.05MB [22s]
+Writing at 0x00156344 =============>                  45.8% 960.00kB/2.05MB [22s]
+Writing at 0x0015b40f =============>                  46.6% 976.00kB/2.05MB [22s]
+Writing at 0x0016007b ==============                  47.3% 992.00kB/2.05MB [23s]
+Writing at 0x001648cf ==============                  48.1% 1008.00kB/2.05MB [23s]
+Writing at 0x001715a2 ==============>                 48.9% 1.00MB/2.05MB [24s]
+Writing at 0x00176fd7 ==============>                 49.6% 1.02MB/2.05MB [24s]
+Writing at 0x0017c004 ===============                 50.4% 1.03MB/2.05MB [24s]
+Writing at 0x00181668 ===============                 51.1% 1.05MB/2.05MB [25s]
+Writing at 0x00187620 ===============>                51.9% 1.06MB/2.05MB [25s]
+Writing at 0x0018f686 ===============>                52.7% 1.08MB/2.05MB [25s]
+Writing at 0x001962bb ================                53.4% 1.09MB/2.05MB [26s]
+Writing at 0x001a1ff9 ================                54.2% 1.11MB/2.05MB [26s]
+Writing at 0x001a9ebd ================                55.0% 1.12MB/2.05MB [27s]
+Writing at 0x001b160b ================>               55.7% 1.14MB/2.05MB [27s]
+Writing at 0x001bd999 ================>               56.5% 1.16MB/2.05MB [27s]
+Writing at 0x001c8b49 =================               57.2% 1.17MB/2.05MB [28s]
+Writing at 0x001cfd6e =================               58.0% 1.19MB/2.05MB [28s]
+Writing at 0x001d5701 =================>              58.8% 1.20MB/2.05MB [28s]
+Writing at 0x001db1d1 =================>              59.5% 1.22MB/2.05MB [29s]
+Writing at 0x001e0b2f ==================              60.3% 1.23MB/2.05MB [29s]
+Writing at 0x001e60c3 ==================              61.1% 1.25MB/2.05MB [30s]
+Writing at 0x001ebbfb ==================>             61.8% 1.27MB/2.05MB [30s]
+Writing at 0x001f262d ==================>             62.6% 1.28MB/2.05MB [30s]
+Writing at 0x001f972c ===================             63.4% 1.30MB/2.05MB [31s]
+Writing at 0x00201578 ===================             64.1% 1.31MB/2.05MB [31s]
+Writing at 0x0020769e ===================             64.9% 1.33MB/2.05MB [31s]
+Writing at 0x0020dae8 ===================>            65.6% 1.34MB/2.05MB [32s]
+Writing at 0x0021595d ===================>            66.4% 1.36MB/2.05MB [32s]
+Writing at 0x0021d00e ====================            67.2% 1.38MB/2.05MB [33s]
+Writing at 0x002238d1 ====================            67.9% 1.39MB/2.05MB [33s]
+Writing at 0x0022d3c1 ====================>           68.7% 1.41MB/2.05MB [33s]
+Writing at 0x00233da9 ====================>           69.5% 1.42MB/2.05MB [34s]
+Writing at 0x0023b267 =====================           70.2% 1.44MB/2.05MB [34s]
+Writing at 0x00244a44 =====================           71.0% 1.45MB/2.05MB [34s]
+Writing at 0x0024dc24 =====================>          71.8% 1.47MB/2.05MB [35s]
+Writing at 0x0026597e =====================>          72.5% 1.48MB/2.05MB [35s]
+Writing at 0x00279635 =====================>          73.3% 1.50MB/2.05MB [36s]
+Writing at 0x0027fa99 ======================          74.0% 1.52MB/2.05MB [36s]
+Writing at 0x00285c88 ======================          74.8% 1.53MB/2.05MB [36s]
+Writing at 0x0028ad0c ======================>         75.6% 1.55MB/2.05MB [37s]
+Writing at 0x00290776 ======================>         76.3% 1.56MB/2.05MB [37s]
+Writing at 0x002961fd =======================         77.1% 1.58MB/2.05MB [38s]
+Writing at 0x0029b6d4 =======================         77.9% 1.59MB/2.05MB [38s]
+Writing at 0x002a094c =======================>        78.6% 1.61MB/2.05MB [38s]
+Writing at 0x002a622c =======================>        79.4% 1.62MB/2.05MB [39s]
+Writing at 0x002ac356 ========================        80.1% 1.64MB/2.05MB [39s]
+Writing at 0x002b161c ========================        80.9% 1.66MB/2.05MB [39s]
+Writing at 0x002b6aad ========================>       81.7% 1.67MB/2.05MB [40s]
+Writing at 0x002bbf62 ========================>       82.4% 1.69MB/2.05MB [40s]
+Writing at 0x002c128e ========================>       83.2% 1.70MB/2.05MB [41s]
+Writing at 0x002c63c0 =========================       84.0% 1.72MB/2.05MB [41s]
+Writing at 0x002cbb1c =========================       84.7% 1.73MB/2.05MB [41s]
+Writing at 0x002d1b34 =========================>      85.5% 1.75MB/2.05MB [42s]
+Writing at 0x002d7aa4 =========================>      86.3% 1.77MB/2.05MB [42s]
+Writing at 0x002dd4f7 ==========================      87.0% 1.78MB/2.05MB [42s]
+Writing at 0x002e2bee ==========================      87.8% 1.80MB/2.05MB [43s]
+Writing at 0x002e8b1c ==========================>     88.5% 1.81MB/2.05MB [43s]
+Writing at 0x002ee254 ==========================>     89.3% 1.83MB/2.05MB [44s]
+Writing at 0x002f3ddb ===========================     90.1% 1.84MB/2.05MB [44s]
+Writing at 0x002fb1e8 ===========================     90.8% 1.86MB/2.05MB [44s]
+Writing at 0x003045aa ===========================     91.6% 1.88MB/2.05MB [45s]
+Writing at 0x0030e641 ===========================>    92.4% 1.89MB/2.05MB [45s]
+Writing at 0x00314392 ===========================>    93.1% 1.91MB/2.05MB [45s]
+Writing at 0x00319f51 ============================    93.9% 1.92MB/2.05MB [46s]
+Writing at 0x003220fa ============================    94.7% 1.94MB/2.05MB [46s]
+Writing at 0x0034dc65 ============================>   95.4% 1.95MB/2.05MB [47s]
+Writing at 0x0037021e ============================>   96.2% 1.97MB/2.05MB [47s]
+Writing at 0x003770a3 =============================   96.9% 1.98MB/2.05MB [47s]
+Writing at 0x0037d960 =============================   97.7% 2.00MB/2.05MB [48s]
+Writing at 0x00383ecb =============================>  98.5% 2.02MB/2.05MB [48s]
+Writing at 0x0038a477 =============================>  99.2% 2.03MB/2.05MB [48s]
+Writing at 0x00390107 =============================> 100.0% 2.05MB/2.05MB [49s]
+Writing at 0x00390190 ============================== 100.0% 2.05MB/2.05MB [49s]
+Wrote 3670416 bytes (2146381 compressed) at 0x00010000 in 49.3 seconds (595.1 kbit/s).
+Verifying written data...
+Hash of data verified.
+
+Hard resetting via RTS pin...
+Executing action: monitor
+Running idf_monitor in directory L:\ESP_WHO\esp-who\examples\human_face_recognition
+Executing "C:\Espressif\python_env\idf6.0_py3.14_env\Scripts\python.exe L:\esp\zip_arhiv\esp-idf-v6.0\tools/idf_monitor.py -p COM4 -b 115200 --toolchain-prefix xtensa-esp32s3-elf- --target esp32s3 --revision 0 L:\ESP_WHO\esp-who\examples\human_face_recognition\build\human_face_recognition.elf L:\ESP_WHO\esp-who\examples\human_face_recognition\build\bootloader\bootloader.elf --force-color -m 'C:\Espressif\python_env\idf6.0_py3.14_env\Scripts\python.exe' 'L:\esp\zip_arhiv\esp-idf-v6.0\tools\idf.py' '-p' 'COM4'"...
+--- WARNING: GDB cannot open serial ports accessed as COMx
+--- NOTE: Using \\.\COM4 instead...
+--- esp-idf-monitor 1.10.0 on \\.\COM4 115200
+--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x2b (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1664
+load:0x403c8700,len:0xf38
+--- 0x403c8700: _stext at ??:?
+load:0x403cb700,len:0x31ec
+entry 0x403c8930
+--- 0x403c8930: call_start_cpu0 at L:/esp/zip_arhiv/esp-idf-v6.0/components/bootloader/subproject/main/bootloader_start.c:27
+I (25) boot: ESP-IDF v6.0-dirty 2nd stage bootloader
+I (25) boot: compile time Oct 29 2026 09:50:20
+I (25) boot: Multicore bootloader
+I (26) boot: chip revision: v0.2
+I (28) boot: efuse block revision: v1.3
+I (32) qio_mode: Enabling default flash chip QIO
+I (36) boot.esp32s3: Boot SPI Speed : 80MHz
+I (40) boot.esp32s3: SPI Mode       : QIO
+I (44) boot.esp32s3: SPI Flash Size : 16MB
+I (48) boot: Enabling RNG early entropy source...
+I (52) boot: Partition Table:
+I (55) boot: ## Label            Usage          Type ST Offset   Length
+I (61) boot:  0 nvs              WiFi data        01 02 0000a000 00005000
+I (68) boot:  1 phy_init         RF data          01 01 0000f000 00001000
+I (74) boot:  2 factory          factory app      00 00 00010000 006d6000
+I (81) boot:  3 storage          Unknown data     01 81 006e6000 00100000
+I (87) boot: End of partition table
+I (90) esp_image: segment 0: paddr=00010020 vaddr=3c1b0020 size=1bdd2ch (1826092) map
+I (375) esp_image: segment 1: paddr=001cdd54 vaddr=3fc9bd00 size=022c4h (  8900) load
+I (376) esp_image: segment 2: paddr=001d0020 vaddr=42000020 size=1aac38h (1748024) map
+I (643) esp_image: segment 3: paddr=0037ac60 vaddr=3fc9dfc4 size=0189ch (  6300) load
+I (645) esp_image: segment 4: paddr=0037c504 vaddr=40378000 size=13c34h ( 80948) load
+I (663) esp_image: segment 5: paddr=00390140 vaddr=50000000 size=00024h (    36) load
+I (671) boot: Loaded app from partition at offset 0x10000
+I (671) boot: Disabling RNG early entropy source...
+I (682) octal_psram: ECC is enabled
+I (682) octal_psram: vendor id    : 0x0d (AP)
+I (682) octal_psram: dev id       : 0x02 (generation 3)
+I (683) octal_psram: density      : 0x03 (64 Mbit)
+I (687) octal_psram: good-die     : 0x01 (Pass)
+I (691) octal_psram: Latency      : 0x01 (Fixed)
+I (696) octal_psram: VCC          : 0x01 (3V)
+I (700) octal_psram: SRF          : 0x01 (Fast Refresh)
+I (705) octal_psram: BurstType    : 0x00 ( Wrap)
+I (709) octal_psram: BurstLen     : 0x03 (1024 Byte)
+I (714) octal_psram: Readlatency  : 0x02 (10 cycles@Fixed)
+I (719) octal_psram: DriveStrength: 0x00 (1/1)
+I (723) MSPI Timing: Enter psram timing tuning
+I (728) esp_psram: Found 8MB PSRAM device
+I (731) esp_psram: Speed: 80MHz
+I (842) mmu_psram: Read only data copied and mapped to SPIRAM
+I (964) mmu_psram: Instructions copied and mapped to SPIRAM
+I (964) cpu_start: Multicore app
+I (1120) esp_psram: SPI SRAM memory test OK
+I (1128) cpu_start: GPIO 44 and 43 are used as console UART I/O pins
+I (1129) cpu_start: Pro cpu start user code
+I (1129) cpu_start: cpu freq: 240000000 Hz
+I (1131) app_init: Application information:
+I (1135) app_init: Project name:     human_face_recognition
+I (1140) app_init: App version:      v0.9.4-274-g1abda05-dirty
+I (1146) app_init: Compile time:     Oct 29 2026 09:50:42
+I (1151) app_init: ELF file SHA256:  bf58877f6...
+I (1155) app_init: ESP-IDF:          v6.0-dirty
+I (1160) efuse_init: Min chip rev:     v0.0
+I (1163) efuse_init: Max chip rev:     v0.99
+I (1168) efuse_init: Chip rev:         v0.2
+I (1171) heap_init: Initializing. RAM available for dynamic allocation:
+I (1178) heap_init: At 3FCB2FA0 len 00036770 (217 KiB): RAM
+I (1183) heap_init: At 3FCE9710 len 00005724 (21 KiB): RAM
+I (1188) esp_psram: Adding pool of 4160K of PSRAM memory to heap allocator
+I (1195) esp_psram: Adding pool of 8K of PSRAM memory gap generated due to end address alignment of drom to the heap allocator
+I (1206) spi_flash: detected chip: boya
+I (1210) spi_flash: flash io: qio
+I (1213) sleep_gpio: Configure to isolate all GPIO pins in sleep state
+I (1219) sleep_gpio: Enable automatic switching of GPIO sleep configuration
+I (1226) main_task: Started on CPU0
+I (1239) esp_psram: Reserving pool of 32K of internal memory for DMA/internal allocations
+I (1239) main_task: Calling app_main()
+I (1263) ov5640: Detected Camera sensor PID=0x5640
+I (1410) CAM: !!! 1. BEFORE cap->init !!!
+I (1410) VideoCapture: version: 2.5.0
+I (1410) VideoCapture: driver:  DVP
+I (1410) VideoCapture: card:    DVP
+I (1412) VideoCapture: bus:     esp32s3:DVP
+I (1416) VideoCapture: capabilities:
+I (1419) VideoCapture:  VIDEO_CAPTURE
+I (1423) VideoCapture:  STREAMING
+I (1427) VideoCapture: chip id: 0x5640
+I (1431) CAM: !!! 2. AFTER cap->init (BEFORE start) !!!
+
+### DVP: BEFORE START ###
+I (1437) dvp_video: DVP start 800x600 in_color=1279412050 xclk=20000000 Hz burst=64 jpeg=0
+I (1445) dvp_ext: DVP Extended camera controller driver is initialized
+I (1451) dvp_video: DVP controller created OK
+### DVP: AFTER START (ret=0) ###
+I (1458) CAM: !!! 3. AFTER cap->start
